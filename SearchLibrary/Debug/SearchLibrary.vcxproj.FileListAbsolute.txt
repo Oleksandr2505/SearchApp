@@ -1,0 +1,2 @@
+D:\SearchLibrary\Debug\SearchLibrary.lib
+D:\SearchLibrary\Debug\SearchLibrary.pdb

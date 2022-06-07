@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\SearchLibrary\Source.cpp(29,26): warning C4129: 'W': unrecognized character escape sequence
+D:\SearchLibrary\Source.cpp(30,26): warning C4129: 'W': unrecognized character escape sequence
+D:\SearchLibrary\Source.cpp(31,26): warning C4129: 'P': unrecognized character escape sequence
+D:\SearchLibrary\Source.cpp(32,26): warning C4129: 'O': unrecognized character escape sequence
+  SearchLibrary.vcxproj -> D:\SearchLibrary\x64\Debug\SearchLibrary.lib
